@@ -1,5 +1,7 @@
 ### Hi there, my name is Christopher 👋
 
+<div style="display: grid;grid-template-columns: repeat(3, 1fr);column-gap: 10px;">
+
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -13,6 +15,8 @@
 <img src="https://img.shields.io/badge/glitch%20-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
+
+</div>
 
 <!--
 **somed00d/somed00d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
